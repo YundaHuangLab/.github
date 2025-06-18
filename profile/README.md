@@ -12,7 +12,7 @@
 
 ---
 
-[🌐 Yunda Huang Website](https://www.fredhutch.org/en/faculty-lab-directory/huang-yunda.html)  
+[🌐 Yunda Huang, PhD](https://www.fredhutch.org/en/faculty-lab-directory/huang-yunda.html)  
 
 ---
 
