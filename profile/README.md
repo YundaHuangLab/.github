@@ -42,15 +42,9 @@ Welcome to **Yunda Huang’s Lab**, where we tackle some of the most complex que
 
 ## 🧑‍🔬 Join Us
 
-We’re always looking for passionate researchers, PhD students, and collaborators! If you’re excited about applying computational methods to real-world health problems, [reach out](mailto:yhuang@yourinstitution.edu) or check our [Open Positions](https://yourlabwebsite.edu/careers).
+We’re always looking for passionate researchers, PhD students, and collaborators! If you’re excited about applying computational methods to real-world health problems, [reach out](Yunda Huang:yunda@fredhutch.org) or check our [Open Positions](https://yourlabwebsite.edu/careers).
 
----
 
-## 📫 Connect With Us
-
-- 🌐 [Lab Website](https://yourlabwebsite.edu)
-- 🐦 [@YundaLab](https://twitter.com/YundaLab)
-- 🔬 [Google Scholar](https://scholar.google.com/citations?user=XXXXXXX)
 
 ---
 
