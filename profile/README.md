@@ -36,7 +36,7 @@ Welcome to **Yunda Huang’s Lab**, where we tackle some of the most complex que
 | Project | Description | Link |
 |--------|-------------|------|
 |  **PK Survival Modeling Framework** | Generating Survival Times Using Cox Proportional Hazards Models with Cyclic and Piecewise Time-Varying Covariates. | [🔗 GitHub ](https://github.com/lilyzhangyuanyuan/AMP-survival-simulation) |
-| **PK Simulation for Correlates Studies** | Conducted nonlinear mixed-effects simulations of VRC01 PK marker sampling strategies, addressing adherence issues and sample-size impacts in AMP correlates studies. | [🔗 GitHub](https://github.com/lilyzhangyuanyuan/AMP-PK-simulation) |
+| **PK Simulation for Correlates Studies** | Simulation-Based Pharmacokinetics Sampling Design for Evaluating Correlates of Prevention Efficacy of Passive HIV Monoclonal Antibody Prophylaxis. | [🔗 GitHub](https://github.com/lilyzhangyuanyuan/AMP-PK-simulation) |
 
 ---
 
