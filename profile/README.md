@@ -35,10 +35,8 @@ Welcome to **Yunda Huang’s Lab**, where we tackle some of the most complex que
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **VRC01 Population PK Analysis** | Developed a two-compartment population PK model (IV & SC) for the broadly neutralizing antibody VRC01 in healthy adults, incorporating body weight effects to guide dosing regimens in HIV prevention trials. | [🔗 GitHub placeholder](https://github.com/your-org/VRC01-popPK) |
-| **PK-Based Neutralization Prediction** | Introduced models to predict serum HIV-1 neutralization titers post-VRC01 administration using measured and model-derived PK data—demonstrated high accuracy (within 5–37%). | [🔗 GitHub placeholder](https://github.com/your-org/VRC01-Neutralization) |
-| **AMP Trial PK/Neutralization Coverage** | Modeled VRC01 pharmacokinetics and predicted neutralization coverage in diverse cohorts from the AMP trials, revealing sex and region-based differences in half-life and coverage. | [🔗 GitHub placeholder](https://github.com/your-org/AMP-PK-Models) |
-| **PK Simulation for Correlates Studies** | Conducted nonlinear mixed-effects simulations of VRC01 PK marker sampling strategies, addressing adherence issues and sample-size impacts in AMP correlates studies. | [🔗 GitHub placeholder](https://github.com/your-org/AMP-PK-Simulations) |
+|  **PK–Survival Modeling Framework** | Developed time-dependent Cox regression models linking VRC01 serum concentrations and neutralization coverage to HIV infection risk in AMP participants. Supports evaluation of antibody-based prevention correlates. | [🔗 GitHub ](https://github.com/lilyzhangyuanyuan/AMP-survival-simulation) |
+| **PK Simulation for Correlates Studies** | Conducted nonlinear mixed-effects simulations of VRC01 PK marker sampling strategies, addressing adherence issues and sample-size impacts in AMP correlates studies. | [🔗 GitHub](https://github.com/lilyzhangyuanyuan/AMP-PK-simulation) |
 
 ---
 
