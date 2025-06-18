@@ -12,10 +12,7 @@
 
 ---
 
-[🌐 Lab Website](https://www.hptn.org/research/scientific-leadership/yunda-huang-phd)  
-![Lab Badge](https://img.shields.io/badge/Systems%20Modeling-HIV%20Prevention-blueviolet)
-![Status](https://img.shields.io/badge/Actively%20Recruiting-Postdocs%20%26%20PhDs-brightgreen)
-![Publications](https://img.shields.io/badge/Papers-PubMed%20Indexed-lightblue)
+[🌐 Yunda Huang Website](https://www.fredhutch.org/en/faculty-lab-directory/huang-yunda.html)  
 
 ---
 
