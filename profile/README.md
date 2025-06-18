@@ -30,21 +30,24 @@ Welcome to **Yunda Huang’s Lab**, where we tackle some of the most complex que
 
 ---
 
+## 🔬 Research Focus
+
+- **HIV Viral Dynamics & Immune Modeling**
+- **Population PK/PD Analysis**
+- **Monoclonal Antibody Prevention Trials**
+- **Predictive Modeling & Machine Learning**
+- **Simulation-Based Trial Optimization**
+
+---
+
 ## 📁 Featured Projects
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **POPModel** | A population PK/PD modeling framework | [🔗 GitHub](https://github.com/your-org/POPModel) |
-| **HIVsim** | An HIV viral dynamics simulator | [🔗 GitHub](https://github.com/your-org/HIVsim) |
-| **PharmAI** | ML-powered biomarker discovery pipeline | [🔗 GitHub](https://github.com/your-org/PharmAI) |
-
----
-
-## 📣 Lab Highlights
-
-- 🏆 Published in *Nature*, *Science Translational Medicine*, *CPT: Pharmacometrics & Systems Pharmacology*
-- 🤝 Collaborations with NIH, WHO, and major universities
-- 🎓 Training the next generation of data-driven scientists
+| **VRC01 Population PK Analysis** | Developed a two-compartment population PK model (IV & SC) for the broadly neutralizing antibody VRC01 in healthy adults, incorporating body weight effects to guide dosing regimens in HIV prevention trials. | [🔗 GitHub placeholder](https://github.com/your-org/VRC01-popPK) |
+| **PK-Based Neutralization Prediction** | Introduced models to predict serum HIV-1 neutralization titers post-VRC01 administration using measured and model-derived PK data—demonstrated high accuracy (within 5–37%). | [🔗 GitHub placeholder](https://github.com/your-org/VRC01-Neutralization) |
+| **AMP Trial PK/Neutralization Coverage** | Modeled VRC01 pharmacokinetics and predicted neutralization coverage in diverse cohorts from the AMP trials, revealing sex and region-based differences in half-life and coverage. | [🔗 GitHub placeholder](https://github.com/your-org/AMP-PK-Models) |
+| **PK Simulation for Correlates Studies** | Conducted nonlinear mixed-effects simulations of VRC01 PK marker sampling strategies, addressing adherence issues and sample-size impacts in AMP correlates studies. | [🔗 GitHub placeholder](https://github.com/your-org/AMP-PK-Simulations) |
 
 ---
 
