@@ -30,15 +30,6 @@ Welcome to **Yunda Huang’s Lab**, where we tackle some of the most complex que
 
 ---
 
-## 🔬 Research Focus
-
-- **HIV Viral Dynamics & Immune Modeling**
-- **Population PK/PD Analysis**
-- **Monoclonal Antibody Prevention Trials**
-- **Predictive Modeling & Machine Learning**
-- **Simulation-Based Trial Optimization**
-
----
 
 ## 📁 Featured Projects
 
