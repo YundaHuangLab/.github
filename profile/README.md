@@ -35,7 +35,7 @@ Welcome to **Yunda Huang’s Lab**, where we tackle some of the most complex que
 
 | Project | Description | Link |
 |--------|-------------|------|
-|  **PK Survival Modeling Framework** | Developed time-dependent Cox regression models linking VRC01 serum concentrations and neutralization coverage to HIV infection risk in AMP participants. Supports evaluation of antibody-based prevention correlates. | [🔗 GitHub ](https://github.com/lilyzhangyuanyuan/AMP-survival-simulation) |
+|  **PK Survival Modeling Framework** | Generating Survival Times Using Cox Proportional Hazards Models with Cyclic and Piecewise Time-Varying Covariates. | [🔗 GitHub ](https://github.com/lilyzhangyuanyuan/AMP-survival-simulation) |
 | **PK Simulation for Correlates Studies** | Conducted nonlinear mixed-effects simulations of VRC01 PK marker sampling strategies, addressing adherence issues and sample-size impacts in AMP correlates studies. | [🔗 GitHub](https://github.com/lilyzhangyuanyuan/AMP-PK-simulation) |
 
 ---
