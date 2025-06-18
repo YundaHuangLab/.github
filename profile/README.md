@@ -30,6 +30,27 @@ Welcome to **Yunda Huang’s Lab**, where we tackle some of the most complex que
 
 ---
 
+## 🖼️ Visualizing Our Work
+
+<p align="center">
+  <img src="images/vrc01-pk-model.png" width="60%" alt="PK Model">
+  <br>
+  <em>Figure: Two-compartment PK model of VRC01 in AMP participants.</em>
+</p>
+
+<p align="center">
+  <img src="images/neutralization-coverage-heatmap.png" width="60%" alt="Coverage Heatmap">
+  <br>
+  <em>Figure: VRC01 neutralization coverage across circulating HIV strains.</em>
+</p>
+
+<p align="center">
+  <img src="images/pk-survival-analysis.png" width="60%" alt="Survival Curve">
+  <br>
+  <em>Figure: HIV-free survival stratified by VRC01 serum titer.</em>
+</p>
+
+---
 
 ## 📁 Featured Projects
 
