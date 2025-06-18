@@ -16,7 +16,8 @@
 
 Welcome to **Yunda Huang’s Lab**, where we tackle some of the most complex questions in pharmacology, systems biology, and data science. Our mission is to drive innovation through computational models, high-throughput data analysis, and translational science.
 
-**Dr. Yunda Huang’s research lab specializes in quantitative systems pharmacology and pharmacometrics to enhance understanding of drug behavior and therapeutic efficacy, particularly in the context of HIV/AIDS and other infectious diseases. Leveraging mathematical modeling, population PK/PD analysis, and machine learning techniques, the lab develops robust computational frameworks for simulating drug dynamics, optimizing dosing regimens, and predicting treatment outcomes.**
+**Dr. Yunda Huang’s lab focuses on understanding HIV infection dynamics and treatment outcomes through advanced mathematical and computational modeling. Her work includes modeling viral kinetics, immune response, and mechanisms of breakthrough infections in antibody prevention trials. By integrating pharmacokinetic (PK) data with clinical and real-world evidence, the lab aims to predict treatment efficacy, guide HIV prevention strategies, and inform public health interventions worldwide.**
+
 
 Key areas include:
 - **Mechanistic modeling of antiretroviral therapy** to capture viral dynamics and drug resistance evolution in HIV-infected populations.
