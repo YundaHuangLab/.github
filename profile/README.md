@@ -12,6 +12,13 @@
 
 ---
 
+[🌐 Lab Website](https://www.hptn.org/research/scientific-leadership/yunda-huang-phd)  
+![Lab Badge](https://img.shields.io/badge/Systems%20Modeling-HIV%20Prevention-blueviolet)
+![Status](https://img.shields.io/badge/Actively%20Recruiting-Postdocs%20%26%20PhDs-brightgreen)
+![Publications](https://img.shields.io/badge/Papers-PubMed%20Indexed-lightblue)
+
+---
+
 ## 🧭 About Us
 
 Welcome to **Yunda Huang’s Lab**, where we tackle some of the most complex questions in systems biology, pharmacology, and data science. Our mission is to drive innovation through computational models, high-throughput data analysis, and translational science.
