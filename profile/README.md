@@ -14,27 +14,19 @@
 
 ## 🧭 About Us
 
-Welcome to **Yunda Huang’s Lab**, where we tackle some of the most complex questions in pharmacology, systems biology, and data science. Our mission is to drive innovation through computational models, high-throughput data analysis, and translational science.
+Welcome to **Yunda Huang’s Lab**, where we tackle some of the most complex questions in systems biology, pharmacology, and data science. Our mission is to drive innovation through computational models, high-throughput data analysis, and translational science.
 
-**Dr. Yunda Huang’s lab focuses on understanding HIV infection dynamics and treatment outcomes through advanced mathematical and computational modeling. Her work includes modeling viral kinetics, immune response, and mechanisms of breakthrough infections in antibody prevention trials. By integrating pharmacokinetic (PK) data with clinical and real-world evidence, the lab aims to predict treatment efficacy, guide HIV prevention strategies, and inform public health interventions worldwide.**
+**Dr. Huang’s lab focuses on understanding HIV infection dynamics and treatment outcomes through advanced mathematical and computational modeling. Her work includes modeling viral kinetics, immune response, and mechanisms of breakthrough infections in antibody prevention trials. By integrating pharmacokinetic (PK) data with clinical and real-world evidence, the lab aims to predict treatment efficacy, guide HIV prevention strategies, and inform public health interventions worldwide.**
 
+---
 
-Key areas include:
+## 🔬 Research Focus
 - **Mechanistic modeling of antiretroviral therapy** to capture viral dynamics and drug resistance evolution in HIV-infected populations.
 - **Population pharmacokinetic/pharmacodynamic (PK/PD) modeling** integrating patient variability and real-world data to support personalized medicine approaches.
 - **Application of machine learning algorithms** to identify biomarkers and predict drug response variability.
 - **Development of translational tools** that bridge preclinical findings with clinical trial data, improving decision-making in drug development.
 - **Collaborations with clinical and public health researchers** to inform treatment guidelines and optimize therapeutic strategies at a population level.
 
----
-
-## 🔬 Research Focus
-
-- **Systems Pharmacology & Pharmacometrics**
-- **AI & Machine Learning in Drug Development**
-- **HIV/AIDS, Antiretroviral Therapy Modeling**
-- **Population Modeling & Simulation**
-- **Real-World Data Integration**
 
 ---
 
