@@ -4,11 +4,12 @@
   <h3>Precision Science | Systems Pharmacology | Data-Driven Discovery</h3>
 </div>
 
+---
 <p align="center">
   <img src="https://user-images.githubusercontent.com/your-image.png" width="60%" alt="Lab Visualization">
 </p>
 
----
+
 
 [🌐 Yunda Huang, PhD](https://www.fredhutch.org/en/faculty-lab-directory/huang-yunda.html)  
 
